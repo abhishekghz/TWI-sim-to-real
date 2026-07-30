@@ -1,0 +1,6406 @@
+[
+  {
+    "scene": 0,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      22,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 1,
+    "label": 1,
+    "square_rc_size": [
+      20,
+      31,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 2,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      8,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 3,
+    "label": 1,
+    "square_rc_size": [
+      18,
+      11,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 4,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 5,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 6,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 7,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 8,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 9,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 10,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 11,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 12,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 13,
+    "label": 1,
+    "square_rc_size": [
+      2,
+      21,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 14,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 15,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 16,
+    "label": 1,
+    "square_rc_size": [
+      10,
+      18,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 17,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 18,
+    "label": 1,
+    "square_rc_size": [
+      12,
+      11,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 19,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 20,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      21,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 21,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      41,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 22,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 23,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      0,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 24,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 25,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 26,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      30,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 27,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      37,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 28,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 29,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      7,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 30,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      27,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 31,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 32,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      36,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 33,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 34,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      32,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 35,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 36,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 37,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      23,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 38,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 39,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      13,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 40,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 41,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 42,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 43,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      41,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 44,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 45,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 46,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      30,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 47,
+    "label": 1,
+    "square_rc_size": [
+      12,
+      40,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 48,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 49,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 50,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      3,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 51,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      39,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 52,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 53,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      7,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 54,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 55,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 56,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 57,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 58,
+    "label": 1,
+    "square_rc_size": [
+      2,
+      33,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 59,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 60,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      12,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 61,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 62,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      10,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 63,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 64,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 65,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 66,
+    "label": 1,
+    "square_rc_size": [
+      2,
+      2,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 67,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 68,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 69,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 70,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 71,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 72,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 73,
+    "label": 1,
+    "square_rc_size": [
+      7,
+      35,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 74,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 75,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 76,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      5,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 77,
+    "label": 1,
+    "square_rc_size": [
+      7,
+      17,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 78,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 79,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 80,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      9,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 81,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      10,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 82,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 83,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      0,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 84,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      20,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 85,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 86,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 87,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 88,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 89,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 90,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 91,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 92,
+    "label": 1,
+    "square_rc_size": [
+      2,
+      30,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 93,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      23,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 94,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 95,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 96,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 97,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 98,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      3,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 99,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 100,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 101,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 102,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      6,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 103,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      11,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 104,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 105,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      21,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 106,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 107,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 108,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 109,
+    "label": 1,
+    "square_rc_size": [
+      12,
+      19,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 110,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 111,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 112,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 113,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 114,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 115,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      28,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 116,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 117,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      6,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 118,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      24,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 119,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      17,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 120,
+    "label": 1,
+    "square_rc_size": [
+      20,
+      27,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 121,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      11,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 122,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 123,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 124,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      7,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 125,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 126,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      40,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 127,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 128,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 129,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      41,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 130,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      34,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 131,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      15,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 132,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      22,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 133,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 134,
+    "label": 1,
+    "square_rc_size": [
+      7,
+      8,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 135,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 136,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      0,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 137,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      6,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 138,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 139,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 140,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 141,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 142,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 143,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 144,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 145,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      9,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 146,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      33,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 147,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 148,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      22,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 149,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      6,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 150,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 151,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      37,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 152,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 153,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      20,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 154,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      37,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 155,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      16,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 156,
+    "label": 1,
+    "square_rc_size": [
+      18,
+      18,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 157,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      18,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 158,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 159,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      11,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 160,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      11,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 161,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 162,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      8,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 163,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 164,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 165,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      23,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 166,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 167,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      13,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 168,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 169,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      17,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 170,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      22,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 171,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      10,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 172,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      25,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 173,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      30,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 174,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      21,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 175,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      21,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 176,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      5,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 177,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 178,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      37,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 179,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      16,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 180,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 181,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 182,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      36,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 183,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 184,
+    "label": 1,
+    "square_rc_size": [
+      10,
+      5,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 185,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      12,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 186,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 187,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 188,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      32,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 189,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      34,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 190,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 191,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      40,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 192,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 193,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      13,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 194,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      32,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 195,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 196,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      5,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 197,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 198,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 199,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 200,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 201,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 202,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      24,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 203,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      5,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 204,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 205,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 206,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 207,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      15,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 208,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 209,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 210,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      28,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 211,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 212,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 213,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 214,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      39,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 215,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      39,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 216,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      34,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 217,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 218,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 219,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      10,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 220,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 221,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      38,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 222,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 223,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      5,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 224,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 225,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 226,
+    "label": 1,
+    "square_rc_size": [
+      14,
+      34,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 227,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 228,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 229,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 230,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 231,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      28,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 232,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      27,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 233,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 234,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 235,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      14,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 236,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 237,
+    "label": 1,
+    "square_rc_size": [
+      20,
+      4,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 238,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      38,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 239,
+    "label": 1,
+    "square_rc_size": [
+      14,
+      41,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 240,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      37,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 241,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 242,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 243,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 244,
+    "label": 1,
+    "square_rc_size": [
+      14,
+      37,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 245,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 246,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 247,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      17,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 248,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      21,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 249,
+    "label": 1,
+    "square_rc_size": [
+      7,
+      39,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 250,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      24,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 251,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      9,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 252,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 253,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      19,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 254,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      28,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 255,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 256,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 257,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 258,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 259,
+    "label": 1,
+    "square_rc_size": [
+      12,
+      9,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 260,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 261,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      40,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 262,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 263,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      10,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 264,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 265,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 266,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 267,
+    "label": 1,
+    "square_rc_size": [
+      18,
+      29,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 268,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      17,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 269,
+    "label": 1,
+    "square_rc_size": [
+      12,
+      40,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 270,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 271,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      19,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 272,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 273,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 274,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 275,
+    "label": 1,
+    "square_rc_size": [
+      20,
+      22,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 276,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 277,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      38,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 278,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 279,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      28,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 280,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 281,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 282,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 283,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      0,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 284,
+    "label": 1,
+    "square_rc_size": [
+      2,
+      21,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 285,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 286,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 287,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      9,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 288,
+    "label": 1,
+    "square_rc_size": [
+      18,
+      11,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 289,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 290,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      27,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 291,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 292,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      33,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 293,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      30,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 294,
+    "label": 1,
+    "square_rc_size": [
+      2,
+      14,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 295,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 296,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 297,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 298,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      7,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 299,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 300,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 301,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 302,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      20,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 303,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 304,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      12,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 305,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      23,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 306,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 307,
+    "label": 1,
+    "square_rc_size": [
+      20,
+      12,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 308,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 309,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 310,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      23,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 311,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 312,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 313,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 314,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 315,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      25,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 316,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      31,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 317,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 318,
+    "label": 1,
+    "square_rc_size": [
+      12,
+      36,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 319,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      12,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 320,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 321,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 322,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      0,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 323,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 324,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 325,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      13,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 326,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      34,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 327,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 328,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 329,
+    "label": 1,
+    "square_rc_size": [
+      2,
+      9,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 330,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 331,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 332,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      31,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 333,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 334,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      19,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 335,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 336,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 337,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      37,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 338,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      25,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 339,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      1,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 340,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 341,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 342,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 343,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 344,
+    "label": 1,
+    "square_rc_size": [
+      12,
+      17,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 345,
+    "label": 1,
+    "square_rc_size": [
+      18,
+      6,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 346,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 347,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 348,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 349,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      16,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 350,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      25,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 351,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      12,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 352,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 353,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      5,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 354,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 355,
+    "label": 1,
+    "square_rc_size": [
+      7,
+      6,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 356,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      11,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 357,
+    "label": 1,
+    "square_rc_size": [
+      10,
+      13,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 358,
+    "label": 1,
+    "square_rc_size": [
+      7,
+      25,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 359,
+    "label": 1,
+    "square_rc_size": [
+      12,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 360,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 361,
+    "label": 1,
+    "square_rc_size": [
+      2,
+      23,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 362,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 363,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      8,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 364,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      30,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 365,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      3,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 366,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      34,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 367,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 368,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 369,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      29,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 370,
+    "label": 1,
+    "square_rc_size": [
+      14,
+      9,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 371,
+    "label": 1,
+    "square_rc_size": [
+      14,
+      33,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 372,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 373,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      33,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 374,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 375,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 376,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      2,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 377,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      18,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 378,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      32,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 379,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      34,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 380,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 381,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 382,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      29,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 383,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      17,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 384,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 385,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 386,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 387,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 388,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 389,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 390,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 391,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      28,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 392,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 393,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 394,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 395,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 396,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 397,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      6,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 398,
+    "label": 1,
+    "square_rc_size": [
+      7,
+      27,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 399,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 400,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 401,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      12,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 402,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 403,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 404,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      20,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 405,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 406,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 407,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 408,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 409,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 410,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 411,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 412,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      28,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 413,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      25,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 414,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 415,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 416,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      13,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 417,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      20,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 418,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 419,
+    "label": 1,
+    "square_rc_size": [
+      7,
+      6,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 420,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 421,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 422,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      32,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 423,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      1,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 424,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      23,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 425,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 426,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 427,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 428,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      11,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 429,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 430,
+    "label": 1,
+    "square_rc_size": [
+      14,
+      13,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 431,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      35,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 432,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      41,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 433,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      1,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 434,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 435,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 436,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 437,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      15,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 438,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 439,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 440,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 441,
+    "label": 1,
+    "square_rc_size": [
+      18,
+      16,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 442,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      1,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 443,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      5,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 444,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 445,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 446,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      7,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 447,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      17,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 448,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 449,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      32,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 450,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 451,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 452,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 453,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 454,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      3,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 455,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 456,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      20,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 457,
+    "label": 1,
+    "square_rc_size": [
+      7,
+      28,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 458,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      20,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 459,
+    "label": 1,
+    "square_rc_size": [
+      7,
+      27,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 460,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      2,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 461,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      11,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 462,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      10,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 463,
+    "label": 1,
+    "square_rc_size": [
+      14,
+      0,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 464,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 465,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 466,
+    "label": 1,
+    "square_rc_size": [
+      12,
+      10,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 467,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      25,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 468,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 469,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      28,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 470,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      37,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 471,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      8,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 472,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 473,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 474,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      2,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 475,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      35,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 476,
+    "label": 1,
+    "square_rc_size": [
+      10,
+      6,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 477,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 478,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      40,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 479,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      0,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 480,
+    "label": 1,
+    "square_rc_size": [
+      7,
+      0,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 481,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      36,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 482,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 483,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 484,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 485,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 486,
+    "label": 1,
+    "square_rc_size": [
+      20,
+      11,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 487,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      13,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 488,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      37,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 489,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      10,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 490,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 491,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 492,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 493,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      9,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 494,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 495,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      12,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 496,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      40,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 497,
+    "label": 1,
+    "square_rc_size": [
+      14,
+      35,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 498,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 499,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 500,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 501,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 502,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      15,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 503,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 504,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      25,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 505,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 506,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 507,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      22,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 508,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      14,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 509,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      35,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 510,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      13,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 511,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 512,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      20,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 513,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 514,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 515,
+    "label": 1,
+    "square_rc_size": [
+      18,
+      36,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 516,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      18,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 517,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      10,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 518,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      34,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 519,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      23,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 520,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 521,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 522,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      29,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 523,
+    "label": 1,
+    "square_rc_size": [
+      20,
+      6,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 524,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      16,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 525,
+    "label": 1,
+    "square_rc_size": [
+      12,
+      23,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 526,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 527,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      8,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 528,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      1,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 529,
+    "label": 1,
+    "square_rc_size": [
+      14,
+      22,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 530,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      33,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 531,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      34,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 532,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 533,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      14,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 534,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 535,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 536,
+    "label": 1,
+    "square_rc_size": [
+      18,
+      32,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 537,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      15,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 538,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 539,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 540,
+    "label": 1,
+    "square_rc_size": [
+      2,
+      22,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 541,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      5,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 542,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 543,
+    "label": 1,
+    "square_rc_size": [
+      2,
+      0,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 544,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      28,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 545,
+    "label": 1,
+    "square_rc_size": [
+      7,
+      7,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 546,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      7,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 547,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      22,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 548,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 549,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 550,
+    "label": 1,
+    "square_rc_size": [
+      10,
+      38,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 551,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      28,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 552,
+    "label": 1,
+    "square_rc_size": [
+      10,
+      25,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 553,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      27,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 554,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      31,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 555,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      8,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 556,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 557,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 558,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 559,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      39,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 560,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 561,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      27,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 562,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      40,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 563,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 564,
+    "label": 1,
+    "square_rc_size": [
+      10,
+      2,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 565,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 566,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      20,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 567,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      17,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 568,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      39,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 569,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 570,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 571,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 572,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 573,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      29,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 574,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 575,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      18,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 576,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      23,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 577,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      2,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 578,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 579,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 580,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 581,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      37,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 582,
+    "label": 1,
+    "square_rc_size": [
+      10,
+      18,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 583,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 584,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 585,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 586,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 587,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      16,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 588,
+    "label": 1,
+    "square_rc_size": [
+      14,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 589,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      24,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 590,
+    "label": 1,
+    "square_rc_size": [
+      10,
+      19,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 591,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      16,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 592,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 593,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 594,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 595,
+    "label": 1,
+    "square_rc_size": [
+      12,
+      23,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 596,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 597,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      0,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 598,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 599,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 600,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 601,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 602,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 603,
+    "label": 1,
+    "square_rc_size": [
+      7,
+      39,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 604,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 605,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      2,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 606,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      37,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 607,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      20,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 608,
+    "label": 1,
+    "square_rc_size": [
+      2,
+      12,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 609,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      20,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 610,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 611,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 612,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 613,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 614,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 615,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      29,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 616,
+    "label": 1,
+    "square_rc_size": [
+      14,
+      19,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 617,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      29,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 618,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      29,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 619,
+    "label": 1,
+    "square_rc_size": [
+      10,
+      20,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 620,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      34,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 621,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 622,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      12,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 623,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 624,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 625,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      38,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 626,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 627,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 628,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      18,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 629,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      25,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 630,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 631,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      35,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 632,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      4,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 633,
+    "label": 1,
+    "square_rc_size": [
+      20,
+      6,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 634,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 635,
+    "label": 1,
+    "square_rc_size": [
+      20,
+      31,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 636,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 637,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      20,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 638,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 639,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 640,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 641,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      24,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 642,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 643,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      11,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 644,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      8,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 645,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      12,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 646,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      23,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 647,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      9,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 648,
+    "label": 1,
+    "square_rc_size": [
+      12,
+      33,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 649,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 650,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      16,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 651,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      21,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 652,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 653,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 654,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 655,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      10,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 656,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 657,
+    "label": 1,
+    "square_rc_size": [
+      14,
+      21,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 658,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      32,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 659,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 660,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      36,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 661,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 662,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 663,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 664,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      39,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 665,
+    "label": 1,
+    "square_rc_size": [
+      18,
+      41,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 666,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 667,
+    "label": 1,
+    "square_rc_size": [
+      16,
+      34,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 668,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      13,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 669,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 670,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 671,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 672,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 673,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      8,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 674,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 675,
+    "label": 1,
+    "square_rc_size": [
+      18,
+      15,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 676,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 677,
+    "label": 1,
+    "square_rc_size": [
+      18,
+      14,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 678,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 679,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      5,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 680,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 681,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 682,
+    "label": 1,
+    "square_rc_size": [
+      20,
+      39,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 683,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 684,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 685,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 686,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      31,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 687,
+    "label": 1,
+    "square_rc_size": [
+      12,
+      17,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 688,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      19,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 689,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 690,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      28,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 691,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 692,
+    "label": 1,
+    "square_rc_size": [
+      20,
+      18,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 693,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 694,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      7,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 695,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 696,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 697,
+    "label": 1,
+    "square_rc_size": [
+      13,
+      30,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 698,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      4,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 699,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      21,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 700,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      41,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 701,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 702,
+    "label": 1,
+    "square_rc_size": [
+      2,
+      1,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 703,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 704,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 705,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 706,
+    "label": 1,
+    "square_rc_size": [
+      18,
+      35,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 707,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 708,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 709,
+    "label": 1,
+    "square_rc_size": [
+      15,
+      5,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 710,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 711,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 712,
+    "label": 1,
+    "square_rc_size": [
+      6,
+      1,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 713,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      5,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 714,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 715,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      36,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 716,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      17,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 717,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 718,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 719,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      15,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 720,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 721,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 722,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 723,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 724,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 725,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 726,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      13,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 727,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 728,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 729,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      25,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 730,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 731,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 732,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 733,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 734,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 735,
+    "label": 1,
+    "square_rc_size": [
+      10,
+      19,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 736,
+    "label": 1,
+    "square_rc_size": [
+      18,
+      24,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 737,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      32,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 738,
+    "label": 1,
+    "square_rc_size": [
+      3,
+      32,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 739,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      19,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 740,
+    "label": 1,
+    "square_rc_size": [
+      7,
+      36,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 741,
+    "label": 1,
+    "square_rc_size": [
+      2,
+      18,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 742,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 743,
+    "label": 1,
+    "square_rc_size": [
+      18,
+      28,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 744,
+    "label": 1,
+    "square_rc_size": [
+      4,
+      26,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 745,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 746,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 747,
+    "label": 1,
+    "square_rc_size": [
+      5,
+      16,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 748,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      40,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 749,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 750,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 751,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 752,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 753,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      10,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 754,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 755,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      38,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 756,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      0,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 757,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      20,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 758,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 759,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      30,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 760,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 761,
+    "label": 1,
+    "square_rc_size": [
+      19,
+      9,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 762,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 763,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 764,
+    "label": 1,
+    "square_rc_size": [
+      7,
+      10,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 765,
+    "label": 1,
+    "square_rc_size": [
+      12,
+      18,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 766,
+    "label": 1,
+    "square_rc_size": [
+      1,
+      13,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 767,
+    "label": 1,
+    "square_rc_size": [
+      7,
+      29,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 768,
+    "label": 1,
+    "square_rc_size": [
+      11,
+      10,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 769,
+    "label": 1,
+    "square_rc_size": [
+      0,
+      30,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 770,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 771,
+    "label": 1,
+    "square_rc_size": [
+      12,
+      21,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 772,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      32,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 773,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 774,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 775,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 776,
+    "label": 1,
+    "square_rc_size": [
+      9,
+      17,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 777,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 778,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 779,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 780,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 781,
+    "label": 1,
+    "square_rc_size": [
+      10,
+      4,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 782,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 783,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 784,
+    "label": 1,
+    "square_rc_size": [
+      18,
+      36,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 785,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 786,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 787,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 788,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 789,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 790,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 791,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 792,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 793,
+    "label": 1,
+    "square_rc_size": [
+      10,
+      39,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 794,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 795,
+    "label": 1,
+    "square_rc_size": [
+      21,
+      3,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 796,
+    "label": 0,
+    "square_rc_size": null,
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 797,
+    "label": 1,
+    "square_rc_size": [
+      17,
+      31,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 798,
+    "label": 1,
+    "square_rc_size": [
+      14,
+      13,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  },
+  {
+    "scene": 799,
+    "label": 1,
+    "square_rc_size": [
+      8,
+      28,
+      6
+    ],
+    "note": "idealized: no wall, no multipath, no material physics"
+  }
+]

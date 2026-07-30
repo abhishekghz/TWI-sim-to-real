@@ -1,0 +1,8132 @@
+[
+  {
+    "scene": 0,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0003,
+        2.8045
+      ]
+    ],
+    "positive_patch_range_m": 2.811,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 1,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0357,
+        2.3074
+      ],
+      [
+        -0.0148,
+        3.5959
+      ]
+    ],
+    "positive_patch_range_m": 2.957,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 2,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1799,
+        2.8875
+      ]
+    ],
+    "positive_patch_range_m": 2.898,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 3,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1428,
+        2.1729
+      ]
+    ],
+    "positive_patch_range_m": 2.166,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 4,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1042,
+        1.9048
+      ]
+    ],
+    "positive_patch_range_m": 1.903,
+    "negative_patch_range_m": 3.308
+  },
+  {
+    "scene": 5,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.072,
+        3.2289
+      ],
+      [
+        0.1458,
+        2.8917
+      ]
+    ],
+    "positive_patch_range_m": 3.074,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 6,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0406,
+        3.1421
+      ],
+      [
+        -0.1603,
+        3.7462
+      ]
+    ],
+    "positive_patch_range_m": 3.455,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 7,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.026,
+        3.8595
+      ]
+    ],
+    "positive_patch_range_m": 3.865,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 8,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.071,
+        3.0008
+      ],
+      [
+        -0.1361,
+        2.9244
+      ]
+    ],
+    "positive_patch_range_m": 2.957,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 9,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1919,
+        1.6067
+      ],
+      [
+        -0.1561,
+        3.9594
+      ]
+    ],
+    "positive_patch_range_m": 2.781,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 10,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0185,
+        1.1418
+      ],
+      [
+        0.0265,
+        1.3187
+      ]
+    ],
+    "positive_patch_range_m": 1.23,
+    "negative_patch_range_m": 2.635
+  },
+  {
+    "scene": 11,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1657,
+        1.5641
+      ]
+    ],
+    "positive_patch_range_m": 1.552,
+    "negative_patch_range_m": 2.957
+  },
+  {
+    "scene": 12,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1624,
+        3.2768
+      ]
+    ],
+    "positive_patch_range_m": 3.279,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 13,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1302,
+        3.6063
+      ]
+    ],
+    "positive_patch_range_m": 3.601,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 14,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0297,
+        1.1894
+      ]
+    ],
+    "positive_patch_range_m": 1.2,
+    "negative_patch_range_m": 2.606
+  },
+  {
+    "scene": 15,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1802,
+        3.7024
+      ],
+      [
+        -0.072,
+        2.7871
+      ]
+    ],
+    "positive_patch_range_m": 3.25,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 16,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1322,
+        3.2673
+      ]
+    ],
+    "positive_patch_range_m": 3.279,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 17,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0537,
+        1.3421
+      ]
+    ],
+    "positive_patch_range_m": 1.347,
+    "negative_patch_range_m": 2.752
+  },
+  {
+    "scene": 18,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0917,
+        1.5389
+      ]
+    ],
+    "positive_patch_range_m": 1.552,
+    "negative_patch_range_m": 2.957
+  },
+  {
+    "scene": 19,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.092,
+        2.6431
+      ]
+    ],
+    "positive_patch_range_m": 2.635,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 20,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0651,
+        2.4327
+      ]
+    ],
+    "positive_patch_range_m": 2.43,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 21,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1412,
+        1.7848
+      ],
+      [
+        -0.1758,
+        1.0869
+      ]
+    ],
+    "positive_patch_range_m": 1.435,
+    "negative_patch_range_m": 2.84
+  },
+  {
+    "scene": 22,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0001,
+        2.8673
+      ],
+      [
+        -0.166,
+        3.5591
+      ]
+    ],
+    "positive_patch_range_m": 3.22,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 23,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0456,
+        3.0385
+      ]
+    ],
+    "positive_patch_range_m": 3.045,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 24,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1938,
+        3.3737
+      ],
+      [
+        -0.1322,
+        1.7199
+      ]
+    ],
+    "positive_patch_range_m": 2.547,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 25,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1586,
+        3.5681
+      ]
+    ],
+    "positive_patch_range_m": 3.572,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 26,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0534,
+        3.7971
+      ]
+    ],
+    "positive_patch_range_m": 3.806,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 27,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0108,
+        3.8622
+      ],
+      [
+        0.0018,
+        3.3476
+      ]
+    ],
+    "positive_patch_range_m": 3.601,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 28,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0315,
+        3.4902
+      ]
+    ],
+    "positive_patch_range_m": 3.484,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 29,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1384,
+        2.5987
+      ]
+    ],
+    "positive_patch_range_m": 2.606,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 30,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0104,
+        3.6993
+      ]
+    ],
+    "positive_patch_range_m": 3.689,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 31,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1433,
+        1.491
+      ]
+    ],
+    "positive_patch_range_m": 1.493,
+    "negative_patch_range_m": 2.898
+  },
+  {
+    "scene": 32,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0161,
+        2.9768
+      ]
+    ],
+    "positive_patch_range_m": 2.986,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 33,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0056,
+        3.6411
+      ],
+      [
+        0.0026,
+        1.6866
+      ]
+    ],
+    "positive_patch_range_m": 2.664,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 34,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0202,
+        1.4244
+      ]
+    ],
+    "positive_patch_range_m": 1.435,
+    "negative_patch_range_m": 2.84
+  },
+  {
+    "scene": 35,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0679,
+        1.636
+      ],
+      [
+        0.1145,
+        3.0634
+      ]
+    ],
+    "positive_patch_range_m": 2.342,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 36,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0933,
+        3.959
+      ]
+    ],
+    "positive_patch_range_m": 3.952,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 37,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1162,
+        3.0778
+      ],
+      [
+        -0.1526,
+        1.0934
+      ]
+    ],
+    "positive_patch_range_m": 2.079,
+    "negative_patch_range_m": 3.484
+  },
+  {
+    "scene": 38,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0569,
+        2.328
+      ]
+    ],
+    "positive_patch_range_m": 2.342,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 39,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1282,
+        2.7745
+      ]
+    ],
+    "positive_patch_range_m": 2.781,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 40,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0618,
+        3.4737
+      ],
+      [
+        -0.1515,
+        2.658
+      ]
+    ],
+    "positive_patch_range_m": 3.074,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 41,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1528,
+        1.923
+      ],
+      [
+        0.164,
+        3.7861
+      ]
+    ],
+    "positive_patch_range_m": 2.869,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 42,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1535,
+        3.1703
+      ]
+    ],
+    "positive_patch_range_m": 3.162,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 43,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0944,
+        2.5745
+      ]
+    ],
+    "positive_patch_range_m": 2.576,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 44,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.004,
+        3.6826
+      ],
+      [
+        0.0659,
+        3.919
+      ]
+    ],
+    "positive_patch_range_m": 3.806,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 45,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0152,
+        1.437
+      ]
+    ],
+    "positive_patch_range_m": 1.435,
+    "negative_patch_range_m": 2.84
+  },
+  {
+    "scene": 46,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0484,
+        2.2157
+      ]
+    ],
+    "positive_patch_range_m": 2.225,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 47,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1153,
+        1.0836
+      ]
+    ],
+    "positive_patch_range_m": 1.083,
+    "negative_patch_range_m": 2.489
+  },
+  {
+    "scene": 48,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0891,
+        3.2939
+      ]
+    ],
+    "positive_patch_range_m": 3.308,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 49,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0421,
+        2.6911
+      ]
+    ],
+    "positive_patch_range_m": 2.693,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 50,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.067,
+        3.1593
+      ]
+    ],
+    "positive_patch_range_m": 3.162,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 51,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1531,
+        2.8172
+      ],
+      [
+        -0.1741,
+        2.1047
+      ]
+    ],
+    "positive_patch_range_m": 2.459,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 52,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1993,
+        1.4515
+      ],
+      [
+        0.1608,
+        1.7832
+      ]
+    ],
+    "positive_patch_range_m": 1.61,
+    "negative_patch_range_m": 3.015
+  },
+  {
+    "scene": 53,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1405,
+        2.1402
+      ],
+      [
+        -0.1339,
+        3.2652
+      ]
+    ],
+    "positive_patch_range_m": 2.693,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 54,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.178,
+        1.9624
+      ],
+      [
+        -0.1187,
+        3.0046
+      ]
+    ],
+    "positive_patch_range_m": 2.489,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 55,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.082,
+        2.632
+      ],
+      [
+        -0.1078,
+        3.3633
+      ]
+    ],
+    "positive_patch_range_m": 2.986,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 56,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1846,
+        2.7908
+      ],
+      [
+        0.1442,
+        2.4784
+      ]
+    ],
+    "positive_patch_range_m": 2.635,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 57,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1336,
+        3.6478
+      ]
+    ],
+    "positive_patch_range_m": 3.66,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 58,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1739,
+        1.1294
+      ]
+    ],
+    "positive_patch_range_m": 1.142,
+    "negative_patch_range_m": 2.547
+  },
+  {
+    "scene": 59,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1782,
+        1.9779
+      ]
+    ],
+    "positive_patch_range_m": 1.991,
+    "negative_patch_range_m": 3.396
+  },
+  {
+    "scene": 60,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0184,
+        3.3495
+      ],
+      [
+        0.0948,
+        2.0656
+      ]
+    ],
+    "positive_patch_range_m": 2.693,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 61,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1234,
+        2.5125
+      ]
+    ],
+    "positive_patch_range_m": 2.518,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 62,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1321,
+        1.545
+      ],
+      [
+        0.0736,
+        1.5338
+      ]
+    ],
+    "positive_patch_range_m": 1.552,
+    "negative_patch_range_m": 2.957
+  },
+  {
+    "scene": 63,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.124,
+        3.5392
+      ]
+    ],
+    "positive_patch_range_m": 3.542,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 64,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0652,
+        1.1389
+      ]
+    ],
+    "positive_patch_range_m": 1.142,
+    "negative_patch_range_m": 2.547
+  },
+  {
+    "scene": 65,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1765,
+        2.1357
+      ]
+    ],
+    "positive_patch_range_m": 2.137,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 66,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0981,
+        2.414
+      ],
+      [
+        0.1298,
+        2.3642
+      ]
+    ],
+    "positive_patch_range_m": 2.401,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 67,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1097,
+        2.4786
+      ]
+    ],
+    "positive_patch_range_m": 2.489,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 68,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1545,
+        3.0098
+      ]
+    ],
+    "positive_patch_range_m": 3.015,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 69,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0819,
+        3.5763
+      ]
+    ],
+    "positive_patch_range_m": 3.572,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 70,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0007,
+        2.7236
+      ],
+      [
+        0.1399,
+        2.8562
+      ]
+    ],
+    "positive_patch_range_m": 2.781,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 71,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0897,
+        3.2101
+      ]
+    ],
+    "positive_patch_range_m": 3.22,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 72,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1195,
+        1.1024
+      ]
+    ],
+    "positive_patch_range_m": 1.113,
+    "negative_patch_range_m": 2.518
+  },
+  {
+    "scene": 73,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1815,
+        3.0057
+      ],
+      [
+        -0.1332,
+        3.0565
+      ]
+    ],
+    "positive_patch_range_m": 3.045,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 74,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0338,
+        3.1367
+      ]
+    ],
+    "positive_patch_range_m": 3.133,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 75,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1957,
+        3.2295
+      ]
+    ],
+    "positive_patch_range_m": 3.22,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 76,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0947,
+        3.5678
+      ]
+    ],
+    "positive_patch_range_m": 3.572,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 77,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.143,
+        2.5187
+      ],
+      [
+        0.1202,
+        3.8648
+      ]
+    ],
+    "positive_patch_range_m": 3.191,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 78,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1519,
+        2.1242
+      ]
+    ],
+    "positive_patch_range_m": 2.137,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 79,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0453,
+        1.0356
+      ]
+    ],
+    "positive_patch_range_m": 1.025,
+    "negative_patch_range_m": 2.43
+  },
+  {
+    "scene": 80,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0093,
+        1.62
+      ],
+      [
+        0.0139,
+        1.8316
+      ]
+    ],
+    "positive_patch_range_m": 1.727,
+    "negative_patch_range_m": 3.133
+  },
+  {
+    "scene": 81,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1702,
+        2.9235
+      ],
+      [
+        -0.0818,
+        1.9465
+      ]
+    ],
+    "positive_patch_range_m": 2.43,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 82,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1644,
+        3.7929
+      ]
+    ],
+    "positive_patch_range_m": 3.806,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 83,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1382,
+        3.0057
+      ]
+    ],
+    "positive_patch_range_m": 3.015,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 84,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0396,
+        3.9221
+      ]
+    ],
+    "positive_patch_range_m": 3.923,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 85,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0456,
+        1.7904
+      ]
+    ],
+    "positive_patch_range_m": 1.786,
+    "negative_patch_range_m": 3.191
+  },
+  {
+    "scene": 86,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0437,
+        1.4558
+      ]
+    ],
+    "positive_patch_range_m": 1.464,
+    "negative_patch_range_m": 2.869
+  },
+  {
+    "scene": 87,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.046,
+        1.6419
+      ],
+      [
+        0.1044,
+        3.3133
+      ]
+    ],
+    "positive_patch_range_m": 2.489,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 88,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1793,
+        1.5132
+      ]
+    ],
+    "positive_patch_range_m": 1.522,
+    "negative_patch_range_m": 2.928
+  },
+  {
+    "scene": 89,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1116,
+        2.848
+      ],
+      [
+        0.0439,
+        3.6419
+      ]
+    ],
+    "positive_patch_range_m": 3.25,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 90,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1745,
+        1.7744
+      ]
+    ],
+    "positive_patch_range_m": 1.786,
+    "negative_patch_range_m": 3.191
+  },
+  {
+    "scene": 91,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1527,
+        3.9682
+      ],
+      [
+        0.0236,
+        2.1001
+      ]
+    ],
+    "positive_patch_range_m": 3.045,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 92,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0453,
+        1.3448
+      ],
+      [
+        0.1501,
+        1.1658
+      ]
+    ],
+    "positive_patch_range_m": 1.259,
+    "negative_patch_range_m": 2.664
+  },
+  {
+    "scene": 93,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1423,
+        3.0388
+      ]
+    ],
+    "positive_patch_range_m": 3.045,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 94,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0808,
+        1.7117
+      ]
+    ],
+    "positive_patch_range_m": 1.698,
+    "negative_patch_range_m": 3.103
+  },
+  {
+    "scene": 95,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0279,
+        3.5201
+      ],
+      [
+        0.0692,
+        1.6742
+      ]
+    ],
+    "positive_patch_range_m": 2.606,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 96,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1114,
+        2.1863
+      ]
+    ],
+    "positive_patch_range_m": 2.196,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 97,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1713,
+        2.0221
+      ]
+    ],
+    "positive_patch_range_m": 2.02,
+    "negative_patch_range_m": 3.425
+  },
+  {
+    "scene": 98,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1902,
+        3.4498
+      ]
+    ],
+    "positive_patch_range_m": 3.455,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 99,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0102,
+        2.462
+      ]
+    ],
+    "positive_patch_range_m": 2.459,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 100,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0883,
+        1.97
+      ]
+    ],
+    "positive_patch_range_m": 1.962,
+    "negative_patch_range_m": 3.367
+  },
+  {
+    "scene": 101,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1282,
+        3.6033
+      ]
+    ],
+    "positive_patch_range_m": 3.601,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 102,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0698,
+        2.642
+      ]
+    ],
+    "positive_patch_range_m": 2.635,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 103,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0534,
+        2.3672
+      ],
+      [
+        -0.0085,
+        2.1151
+      ]
+    ],
+    "positive_patch_range_m": 2.254,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 104,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1836,
+        1.2699
+      ],
+      [
+        -0.1979,
+        3.3173
+      ]
+    ],
+    "positive_patch_range_m": 2.284,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 105,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0822,
+        1.7667
+      ],
+      [
+        0.0821,
+        3.2379
+      ]
+    ],
+    "positive_patch_range_m": 2.489,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 106,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1895,
+        1.7926
+      ],
+      [
+        -0.0108,
+        1.4194
+      ]
+    ],
+    "positive_patch_range_m": 1.61,
+    "negative_patch_range_m": 3.015
+  },
+  {
+    "scene": 107,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0924,
+        3.371
+      ]
+    ],
+    "positive_patch_range_m": 3.367,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 108,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1045,
+        3.2087
+      ]
+    ],
+    "positive_patch_range_m": 3.22,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 109,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1982,
+        3.0067
+      ],
+      [
+        0.1095,
+        3.4883
+      ]
+    ],
+    "positive_patch_range_m": 3.25,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 110,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1333,
+        1.0298
+      ],
+      [
+        0.0115,
+        3.2011
+      ]
+    ],
+    "positive_patch_range_m": 2.108,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 111,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1046,
+        3.2855
+      ],
+      [
+        0.0159,
+        3.0126
+      ]
+    ],
+    "positive_patch_range_m": 3.162,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 112,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1246,
+        1.4616
+      ],
+      [
+        -0.0176,
+        1.5454
+      ]
+    ],
+    "positive_patch_range_m": 1.493,
+    "negative_patch_range_m": 2.898
+  },
+  {
+    "scene": 113,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0841,
+        1.9551
+      ]
+    ],
+    "positive_patch_range_m": 1.962,
+    "negative_patch_range_m": 3.367
+  },
+  {
+    "scene": 114,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0932,
+        3.622
+      ],
+      [
+        -0.1083,
+        1.4937
+      ]
+    ],
+    "positive_patch_range_m": 2.547,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 115,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0355,
+        1.799
+      ]
+    ],
+    "positive_patch_range_m": 1.786,
+    "negative_patch_range_m": 3.191
+  },
+  {
+    "scene": 116,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1498,
+        3.8416
+      ]
+    ],
+    "positive_patch_range_m": 3.835,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 117,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0685,
+        1.1056
+      ]
+    ],
+    "positive_patch_range_m": 1.113,
+    "negative_patch_range_m": 2.518
+  },
+  {
+    "scene": 118,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0901,
+        1.8701
+      ],
+      [
+        0.0902,
+        1.6326
+      ]
+    ],
+    "positive_patch_range_m": 1.757,
+    "negative_patch_range_m": 3.162
+  },
+  {
+    "scene": 119,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1552,
+        2.1391
+      ],
+      [
+        -0.1561,
+        2.4112
+      ]
+    ],
+    "positive_patch_range_m": 2.284,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 120,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0355,
+        3.9826
+      ],
+      [
+        -0.1142,
+        1.7875
+      ]
+    ],
+    "positive_patch_range_m": 2.898,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 121,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0936,
+        2.0697
+      ],
+      [
+        0.1492,
+        2.6239
+      ]
+    ],
+    "positive_patch_range_m": 2.342,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 122,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0037,
+        2.3573
+      ],
+      [
+        -0.0356,
+        2.1864
+      ]
+    ],
+    "positive_patch_range_m": 2.284,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 123,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1194,
+        3.222
+      ],
+      [
+        -0.0635,
+        3.1191
+      ]
+    ],
+    "positive_patch_range_m": 3.162,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 124,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1345,
+        3.3999
+      ],
+      [
+        0.1343,
+        3.8266
+      ]
+    ],
+    "positive_patch_range_m": 3.601,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 125,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.058,
+        3.2655
+      ]
+    ],
+    "positive_patch_range_m": 3.279,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 126,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0532,
+        2.949
+      ]
+    ],
+    "positive_patch_range_m": 2.957,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 127,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1918,
+        3.4928
+      ],
+      [
+        0.1441,
+        3.8305
+      ]
+    ],
+    "positive_patch_range_m": 3.66,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 128,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0299,
+        3.6082
+      ]
+    ],
+    "positive_patch_range_m": 3.601,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 129,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1047,
+        1.6353
+      ]
+    ],
+    "positive_patch_range_m": 1.639,
+    "negative_patch_range_m": 3.045
+  },
+  {
+    "scene": 130,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0825,
+        2.9864
+      ],
+      [
+        0.0445,
+        3.0567
+      ]
+    ],
+    "positive_patch_range_m": 3.015,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 131,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.164,
+        3.5
+      ],
+      [
+        -0.1627,
+        2.172
+      ]
+    ],
+    "positive_patch_range_m": 2.84,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 132,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1188,
+        1.8377
+      ],
+      [
+        -0.0875,
+        3.9119
+      ]
+    ],
+    "positive_patch_range_m": 2.869,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 133,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0298,
+        1.4362
+      ]
+    ],
+    "positive_patch_range_m": 1.435,
+    "negative_patch_range_m": 2.84
+  },
+  {
+    "scene": 134,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0683,
+        3.021
+      ],
+      [
+        0.0751,
+        2.2669
+      ]
+    ],
+    "positive_patch_range_m": 2.635,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 135,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0919,
+        1.7225
+      ]
+    ],
+    "positive_patch_range_m": 1.727,
+    "negative_patch_range_m": 3.133
+  },
+  {
+    "scene": 136,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0028,
+        2.6798
+      ],
+      [
+        0.0505,
+        3.2454
+      ]
+    ],
+    "positive_patch_range_m": 2.957,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 137,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1099,
+        2.2847
+      ]
+    ],
+    "positive_patch_range_m": 2.284,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 138,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0906,
+        2.4641
+      ],
+      [
+        0.0354,
+        1.1845
+      ]
+    ],
+    "positive_patch_range_m": 1.815,
+    "negative_patch_range_m": 3.22
+  },
+  {
+    "scene": 139,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1642,
+        2.6026
+      ]
+    ],
+    "positive_patch_range_m": 2.606,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 140,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1719,
+        2.1596
+      ],
+      [
+        0.1537,
+        1.0114
+      ]
+    ],
+    "positive_patch_range_m": 1.581,
+    "negative_patch_range_m": 2.986
+  },
+  {
+    "scene": 141,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0833,
+        2.0287
+      ],
+      [
+        0.1947,
+        2.6088
+      ]
+    ],
+    "positive_patch_range_m": 2.313,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 142,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.064,
+        1.1303
+      ],
+      [
+        -0.0524,
+        3.5515
+      ]
+    ],
+    "positive_patch_range_m": 2.342,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 143,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0017,
+        3.1977
+      ]
+    ],
+    "positive_patch_range_m": 3.191,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 144,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.155,
+        2.3827
+      ],
+      [
+        -0.0476,
+        1.2425
+      ]
+    ],
+    "positive_patch_range_m": 1.815,
+    "negative_patch_range_m": 3.22
+  },
+  {
+    "scene": 145,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0808,
+        2.0872
+      ],
+      [
+        -0.0011,
+        1.551
+      ]
+    ],
+    "positive_patch_range_m": 1.815,
+    "negative_patch_range_m": 3.22
+  },
+  {
+    "scene": 146,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0284,
+        3.7123
+      ]
+    ],
+    "positive_patch_range_m": 3.718,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 147,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1455,
+        1.5937
+      ]
+    ],
+    "positive_patch_range_m": 1.581,
+    "negative_patch_range_m": 2.986
+  },
+  {
+    "scene": 148,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0618,
+        1.6658
+      ],
+      [
+        -0.0782,
+        2.1833
+      ]
+    ],
+    "positive_patch_range_m": 1.932,
+    "negative_patch_range_m": 3.338
+  },
+  {
+    "scene": 149,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0585,
+        2.4382
+      ]
+    ],
+    "positive_patch_range_m": 2.43,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 150,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0572,
+        1.3392
+      ]
+    ],
+    "positive_patch_range_m": 1.347,
+    "negative_patch_range_m": 2.752
+  },
+  {
+    "scene": 151,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0487,
+        3.9108
+      ],
+      [
+        -0.1181,
+        3.0155
+      ]
+    ],
+    "positive_patch_range_m": 3.455,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 152,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0694,
+        1.8447
+      ]
+    ],
+    "positive_patch_range_m": 1.844,
+    "negative_patch_range_m": 3.25
+  },
+  {
+    "scene": 153,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1208,
+        2.5536
+      ]
+    ],
+    "positive_patch_range_m": 2.547,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 154,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1429,
+        2.2365
+      ],
+      [
+        -0.0241,
+        2.4115
+      ]
+    ],
+    "positive_patch_range_m": 2.313,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 155,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1774,
+        2.3946
+      ]
+    ],
+    "positive_patch_range_m": 2.401,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 156,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1344,
+        2.548
+      ],
+      [
+        0.1756,
+        3.8305
+      ]
+    ],
+    "positive_patch_range_m": 3.191,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 157,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0304,
+        3.8853
+      ]
+    ],
+    "positive_patch_range_m": 3.894,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 158,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1358,
+        1.2119
+      ]
+    ],
+    "positive_patch_range_m": 1.2,
+    "negative_patch_range_m": 2.606
+  },
+  {
+    "scene": 159,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0265,
+        1.4947
+      ]
+    ],
+    "positive_patch_range_m": 1.493,
+    "negative_patch_range_m": 2.898
+  },
+  {
+    "scene": 160,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1452,
+        2.064
+      ]
+    ],
+    "positive_patch_range_m": 2.079,
+    "negative_patch_range_m": 3.484
+  },
+  {
+    "scene": 161,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0289,
+        2.1809
+      ],
+      [
+        0.0457,
+        3.2747
+      ]
+    ],
+    "positive_patch_range_m": 2.723,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 162,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1368,
+        3.7977
+      ]
+    ],
+    "positive_patch_range_m": 3.806,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 163,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0304,
+        1.9879
+      ]
+    ],
+    "positive_patch_range_m": 1.991,
+    "negative_patch_range_m": 3.396
+  },
+  {
+    "scene": 164,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1273,
+        2.8706
+      ]
+    ],
+    "positive_patch_range_m": 2.869,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 165,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0393,
+        3.7927
+      ],
+      [
+        0.1882,
+        1.3657
+      ]
+    ],
+    "positive_patch_range_m": 2.576,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 166,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1809,
+        3.5294
+      ],
+      [
+        -0.0782,
+        1.1389
+      ]
+    ],
+    "positive_patch_range_m": 2.342,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 167,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1446,
+        2.0314
+      ],
+      [
+        0.1856,
+        1.3646
+      ]
+    ],
+    "positive_patch_range_m": 1.698,
+    "negative_patch_range_m": 3.103
+  },
+  {
+    "scene": 168,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1822,
+        2.9565
+      ],
+      [
+        -0.0466,
+        2.718
+      ]
+    ],
+    "positive_patch_range_m": 2.84,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 169,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1622,
+        1.2748
+      ],
+      [
+        0.0293,
+        2.671
+      ]
+    ],
+    "positive_patch_range_m": 1.962,
+    "negative_patch_range_m": 3.367
+  },
+  {
+    "scene": 170,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.078,
+        2.9474
+      ]
+    ],
+    "positive_patch_range_m": 2.957,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 171,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1311,
+        1.9029
+      ]
+    ],
+    "positive_patch_range_m": 1.903,
+    "negative_patch_range_m": 3.308
+  },
+  {
+    "scene": 172,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.059,
+        1.851
+      ],
+      [
+        0.1364,
+        1.8996
+      ]
+    ],
+    "positive_patch_range_m": 1.874,
+    "negative_patch_range_m": 3.279
+  },
+  {
+    "scene": 173,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.192,
+        1.2907
+      ]
+    ],
+    "positive_patch_range_m": 1.288,
+    "negative_patch_range_m": 2.693
+  },
+  {
+    "scene": 174,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1189,
+        2.2631
+      ]
+    ],
+    "positive_patch_range_m": 2.254,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 175,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1899,
+        2.6818
+      ]
+    ],
+    "positive_patch_range_m": 2.693,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 176,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0831,
+        1.8502
+      ]
+    ],
+    "positive_patch_range_m": 1.844,
+    "negative_patch_range_m": 3.25
+  },
+  {
+    "scene": 177,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0674,
+        1.4161
+      ],
+      [
+        0.0901,
+        3.4045
+      ]
+    ],
+    "positive_patch_range_m": 2.401,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 178,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0635,
+        3.4626
+      ]
+    ],
+    "positive_patch_range_m": 3.455,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 179,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0282,
+        3.9201
+      ],
+      [
+        0.0251,
+        3.0228
+      ]
+    ],
+    "positive_patch_range_m": 3.484,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 180,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0477,
+        3.7795
+      ]
+    ],
+    "positive_patch_range_m": 3.777,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 181,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0939,
+        2.4226
+      ],
+      [
+        -0.016,
+        3.5901
+      ]
+    ],
+    "positive_patch_range_m": 3.015,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 182,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1077,
+        3.1577
+      ]
+    ],
+    "positive_patch_range_m": 3.162,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 183,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1098,
+        3.6757
+      ]
+    ],
+    "positive_patch_range_m": 3.689,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 184,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.121,
+        2.0554
+      ],
+      [
+        0.0874,
+        2.9382
+      ]
+    ],
+    "positive_patch_range_m": 2.489,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 185,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1009,
+        1.2492
+      ]
+    ],
+    "positive_patch_range_m": 1.259,
+    "negative_patch_range_m": 2.664
+  },
+  {
+    "scene": 186,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0582,
+        2.1593
+      ]
+    ],
+    "positive_patch_range_m": 2.166,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 187,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0481,
+        2.8252
+      ]
+    ],
+    "positive_patch_range_m": 2.84,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 188,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0551,
+        3.3978
+      ]
+    ],
+    "positive_patch_range_m": 3.396,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 189,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1884,
+        2.0963
+      ],
+      [
+        0.0388,
+        3.4397
+      ]
+    ],
+    "positive_patch_range_m": 2.781,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 190,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0752,
+        2.1255
+      ]
+    ],
+    "positive_patch_range_m": 2.137,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 191,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1504,
+        2.8157
+      ],
+      [
+        0.0943,
+        2.7089
+      ]
+    ],
+    "positive_patch_range_m": 2.752,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 192,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1598,
+        3.6267
+      ]
+    ],
+    "positive_patch_range_m": 3.63,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 193,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0438,
+        1.0442
+      ],
+      [
+        0.1805,
+        2.5302
+      ]
+    ],
+    "positive_patch_range_m": 1.786,
+    "negative_patch_range_m": 3.191
+  },
+  {
+    "scene": 194,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0658,
+        2.0301
+      ],
+      [
+        -0.0277,
+        2.411
+      ]
+    ],
+    "positive_patch_range_m": 2.225,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 195,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1397,
+        3.2996
+      ]
+    ],
+    "positive_patch_range_m": 3.308,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 196,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.044,
+        1.6977
+      ]
+    ],
+    "positive_patch_range_m": 1.698,
+    "negative_patch_range_m": 3.103
+  },
+  {
+    "scene": 197,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0767,
+        2.0261
+      ]
+    ],
+    "positive_patch_range_m": 2.02,
+    "negative_patch_range_m": 3.425
+  },
+  {
+    "scene": 198,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.091,
+        2.0241
+      ]
+    ],
+    "positive_patch_range_m": 2.02,
+    "negative_patch_range_m": 3.425
+  },
+  {
+    "scene": 199,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0907,
+        1.3349
+      ]
+    ],
+    "positive_patch_range_m": 1.347,
+    "negative_patch_range_m": 2.752
+  },
+  {
+    "scene": 200,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0108,
+        3.1891
+      ],
+      [
+        0.0961,
+        3.3549
+      ]
+    ],
+    "positive_patch_range_m": 3.279,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 201,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0612,
+        1.3343
+      ],
+      [
+        0.1267,
+        3.2099
+      ]
+    ],
+    "positive_patch_range_m": 2.284,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 202,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0864,
+        2.312
+      ],
+      [
+        0.175,
+        1.2619
+      ]
+    ],
+    "positive_patch_range_m": 1.786,
+    "negative_patch_range_m": 3.191
+  },
+  {
+    "scene": 203,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1272,
+        2.1979
+      ]
+    ],
+    "positive_patch_range_m": 2.196,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 204,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1855,
+        3.9011
+      ],
+      [
+        -0.0167,
+        2.5148
+      ]
+    ],
+    "positive_patch_range_m": 3.22,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 205,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.003,
+        2.7671
+      ],
+      [
+        0.1216,
+        1.9509
+      ]
+    ],
+    "positive_patch_range_m": 2.371,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 206,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0819,
+        1.4859
+      ],
+      [
+        -0.1413,
+        3.8121
+      ]
+    ],
+    "positive_patch_range_m": 2.635,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 207,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0157,
+        2.5486
+      ],
+      [
+        0.105,
+        2.883
+      ]
+    ],
+    "positive_patch_range_m": 2.723,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 208,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0509,
+        2.6719
+      ],
+      [
+        0.158,
+        1.2498
+      ]
+    ],
+    "positive_patch_range_m": 1.962,
+    "negative_patch_range_m": 3.367
+  },
+  {
+    "scene": 209,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1402,
+        1.3514
+      ],
+      [
+        0.1816,
+        2.2165
+      ]
+    ],
+    "positive_patch_range_m": 1.786,
+    "negative_patch_range_m": 3.191
+  },
+  {
+    "scene": 210,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1419,
+        1.1837
+      ],
+      [
+        0.072,
+        3.0731
+      ]
+    ],
+    "positive_patch_range_m": 2.137,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 211,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.162,
+        1.5904
+      ],
+      [
+        0.0902,
+        2.6448
+      ]
+    ],
+    "positive_patch_range_m": 2.108,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 212,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.019,
+        2.0502
+      ]
+    ],
+    "positive_patch_range_m": 2.049,
+    "negative_patch_range_m": 3.455
+  },
+  {
+    "scene": 213,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1524,
+        3.831
+      ]
+    ],
+    "positive_patch_range_m": 3.835,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 214,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0552,
+        3.0751
+      ],
+      [
+        -0.1311,
+        3.9577
+      ]
+    ],
+    "positive_patch_range_m": 3.513,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 215,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1031,
+        2.5108
+      ]
+    ],
+    "positive_patch_range_m": 2.518,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 216,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1741,
+        1.4462
+      ],
+      [
+        -0.0914,
+        2.0523
+      ]
+    ],
+    "positive_patch_range_m": 1.757,
+    "negative_patch_range_m": 3.162
+  },
+  {
+    "scene": 217,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1641,
+        3.3657
+      ]
+    ],
+    "positive_patch_range_m": 3.367,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 218,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1989,
+        1.1942
+      ]
+    ],
+    "positive_patch_range_m": 1.2,
+    "negative_patch_range_m": 2.606
+  },
+  {
+    "scene": 219,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0294,
+        3.8502
+      ],
+      [
+        -0.0366,
+        1.6213
+      ]
+    ],
+    "positive_patch_range_m": 2.723,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 220,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1191,
+        2.5203
+      ]
+    ],
+    "positive_patch_range_m": 2.518,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 221,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0071,
+        1.4806
+      ]
+    ],
+    "positive_patch_range_m": 1.493,
+    "negative_patch_range_m": 2.898
+  },
+  {
+    "scene": 222,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0492,
+        3.8568
+      ]
+    ],
+    "positive_patch_range_m": 3.865,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 223,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1387,
+        2.2174
+      ],
+      [
+        0.0129,
+        1.938
+      ]
+    ],
+    "positive_patch_range_m": 2.079,
+    "negative_patch_range_m": 3.484
+  },
+  {
+    "scene": 224,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1841,
+        2.3253
+      ],
+      [
+        0.1608,
+        3.6925
+      ]
+    ],
+    "positive_patch_range_m": 3.015,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 225,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1571,
+        1.7267
+      ],
+      [
+        -0.0731,
+        1.0002
+      ]
+    ],
+    "positive_patch_range_m": 1.376,
+    "negative_patch_range_m": 2.781
+  },
+  {
+    "scene": 226,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1244,
+        2.5287
+      ]
+    ],
+    "positive_patch_range_m": 2.518,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 227,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1479,
+        2.0164
+      ]
+    ],
+    "positive_patch_range_m": 2.02,
+    "negative_patch_range_m": 3.425
+  },
+  {
+    "scene": 228,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0642,
+        2.0849
+      ]
+    ],
+    "positive_patch_range_m": 2.079,
+    "negative_patch_range_m": 3.484
+  },
+  {
+    "scene": 229,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0402,
+        3.1381
+      ],
+      [
+        -0.0496,
+        2.0576
+      ]
+    ],
+    "positive_patch_range_m": 2.606,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 230,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0813,
+        1.354
+      ],
+      [
+        -0.0854,
+        1.6785
+      ]
+    ],
+    "positive_patch_range_m": 1.522,
+    "negative_patch_range_m": 2.928
+  },
+  {
+    "scene": 231,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1779,
+        3.6299
+      ],
+      [
+        -0.1667,
+        1.9535
+      ]
+    ],
+    "positive_patch_range_m": 2.781,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 232,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.02,
+        1.3488
+      ],
+      [
+        -0.0442,
+        3.2533
+      ]
+    ],
+    "positive_patch_range_m": 2.313,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 233,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.131,
+        1.086
+      ],
+      [
+        0.189,
+        2.9599
+      ]
+    ],
+    "positive_patch_range_m": 2.02,
+    "negative_patch_range_m": 3.425
+  },
+  {
+    "scene": 234,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.117,
+        1.7998
+      ]
+    ],
+    "positive_patch_range_m": 1.786,
+    "negative_patch_range_m": 3.191
+  },
+  {
+    "scene": 235,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0809,
+        2.801
+      ],
+      [
+        0.1146,
+        3.1096
+      ]
+    ],
+    "positive_patch_range_m": 2.957,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 236,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1295,
+        3.4624
+      ],
+      [
+        -0.0904,
+        3.1506
+      ]
+    ],
+    "positive_patch_range_m": 3.308,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 237,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0562,
+        3.2592
+      ],
+      [
+        0.127,
+        2.1637
+      ]
+    ],
+    "positive_patch_range_m": 2.723,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 238,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1424,
+        1.8745
+      ]
+    ],
+    "positive_patch_range_m": 1.874,
+    "negative_patch_range_m": 3.279
+  },
+  {
+    "scene": 239,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1411,
+        1.6957
+      ]
+    ],
+    "positive_patch_range_m": 1.698,
+    "negative_patch_range_m": 3.103
+  },
+  {
+    "scene": 240,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1076,
+        2.8503
+      ]
+    ],
+    "positive_patch_range_m": 2.84,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 241,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1247,
+        2.2409
+      ]
+    ],
+    "positive_patch_range_m": 2.254,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 242,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0752,
+        1.6872
+      ]
+    ],
+    "positive_patch_range_m": 1.698,
+    "negative_patch_range_m": 3.103
+  },
+  {
+    "scene": 243,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1718,
+        1.0157
+      ],
+      [
+        0.0067,
+        3.1236
+      ]
+    ],
+    "positive_patch_range_m": 2.079,
+    "negative_patch_range_m": 3.484
+  },
+  {
+    "scene": 244,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1692,
+        3.375
+      ]
+    ],
+    "positive_patch_range_m": 3.367,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 245,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1349,
+        2.3289
+      ]
+    ],
+    "positive_patch_range_m": 2.342,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 246,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0605,
+        1.5445
+      ],
+      [
+        -0.0844,
+        1.8075
+      ]
+    ],
+    "positive_patch_range_m": 1.669,
+    "negative_patch_range_m": 3.074
+  },
+  {
+    "scene": 247,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1096,
+        2.0769
+      ],
+      [
+        0.1889,
+        2.62
+      ]
+    ],
+    "positive_patch_range_m": 2.342,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 248,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1486,
+        3.7012
+      ],
+      [
+        0.1737,
+        1.848
+      ]
+    ],
+    "positive_patch_range_m": 2.781,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 249,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1663,
+        1.325
+      ]
+    ],
+    "positive_patch_range_m": 1.317,
+    "negative_patch_range_m": 2.723
+  },
+  {
+    "scene": 250,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.123,
+        3.1957
+      ]
+    ],
+    "positive_patch_range_m": 3.191,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 251,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1841,
+        2.7289
+      ],
+      [
+        -0.1448,
+        3.4844
+      ]
+    ],
+    "positive_patch_range_m": 3.103,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 252,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1537,
+        1.8458
+      ]
+    ],
+    "positive_patch_range_m": 1.844,
+    "negative_patch_range_m": 3.25
+  },
+  {
+    "scene": 253,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1635,
+        2.8497
+      ]
+    ],
+    "positive_patch_range_m": 2.84,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 254,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1918,
+        1.3747
+      ],
+      [
+        -0.079,
+        3.3102
+      ]
+    ],
+    "positive_patch_range_m": 2.342,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 255,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0367,
+        2.3016
+      ]
+    ],
+    "positive_patch_range_m": 2.313,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 256,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1095,
+        1.5591
+      ],
+      [
+        -0.0799,
+        2.683
+      ]
+    ],
+    "positive_patch_range_m": 2.108,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 257,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1196,
+        1.0257
+      ]
+    ],
+    "positive_patch_range_m": 1.025,
+    "negative_patch_range_m": 2.43
+  },
+  {
+    "scene": 258,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1603,
+        1.5864
+      ]
+    ],
+    "positive_patch_range_m": 1.581,
+    "negative_patch_range_m": 2.986
+  },
+  {
+    "scene": 259,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1965,
+        2.1309
+      ],
+      [
+        -0.1305,
+        2.397
+      ]
+    ],
+    "positive_patch_range_m": 2.254,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 260,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0269,
+        1.2892
+      ]
+    ],
+    "positive_patch_range_m": 1.288,
+    "negative_patch_range_m": 2.693
+  },
+  {
+    "scene": 261,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0193,
+        2.9265
+      ],
+      [
+        0.0943,
+        3.8681
+      ]
+    ],
+    "positive_patch_range_m": 3.396,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 262,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.162,
+        2.7977
+      ]
+    ],
+    "positive_patch_range_m": 2.811,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 263,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0443,
+        1.6802
+      ],
+      [
+        -0.1316,
+        2.309
+      ]
+    ],
+    "positive_patch_range_m": 1.991,
+    "negative_patch_range_m": 3.396
+  },
+  {
+    "scene": 264,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1165,
+        1.5551
+      ],
+      [
+        0.0208,
+        1.8877
+      ]
+    ],
+    "positive_patch_range_m": 1.727,
+    "negative_patch_range_m": 3.133
+  },
+  {
+    "scene": 265,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0093,
+        2.7029
+      ]
+    ],
+    "positive_patch_range_m": 2.693,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 266,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0311,
+        1.3476
+      ]
+    ],
+    "positive_patch_range_m": 1.347,
+    "negative_patch_range_m": 2.752
+  },
+  {
+    "scene": 267,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1564,
+        1.9721
+      ]
+    ],
+    "positive_patch_range_m": 1.962,
+    "negative_patch_range_m": 3.367
+  },
+  {
+    "scene": 268,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1513,
+        2.7306
+      ],
+      [
+        -0.1197,
+        3.2516
+      ]
+    ],
+    "positive_patch_range_m": 2.986,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 269,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1945,
+        1.542
+      ]
+    ],
+    "positive_patch_range_m": 1.552,
+    "negative_patch_range_m": 2.957
+  },
+  {
+    "scene": 270,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1649,
+        3.2931
+      ],
+      [
+        0.1831,
+        2.6146
+      ]
+    ],
+    "positive_patch_range_m": 2.957,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 271,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0614,
+        1.8714
+      ]
+    ],
+    "positive_patch_range_m": 1.874,
+    "negative_patch_range_m": 3.279
+  },
+  {
+    "scene": 272,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1162,
+        3.7383
+      ],
+      [
+        0.1939,
+        1.1525
+      ]
+    ],
+    "positive_patch_range_m": 2.459,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 273,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0098,
+        3.8118
+      ],
+      [
+        -0.0771,
+        3.9258
+      ]
+    ],
+    "positive_patch_range_m": 3.865,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 274,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1802,
+        2.9843
+      ],
+      [
+        0.1969,
+        3.1499
+      ]
+    ],
+    "positive_patch_range_m": 3.074,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 275,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1789,
+        1.0421
+      ],
+      [
+        -0.1448,
+        3.1152
+      ]
+    ],
+    "positive_patch_range_m": 2.079,
+    "negative_patch_range_m": 3.484
+  },
+  {
+    "scene": 276,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0534,
+        2.6457
+      ]
+    ],
+    "positive_patch_range_m": 2.635,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 277,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0835,
+        1.5583
+      ],
+      [
+        0.0136,
+        1.9839
+      ]
+    ],
+    "positive_patch_range_m": 1.757,
+    "negative_patch_range_m": 3.162
+  },
+  {
+    "scene": 278,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.088,
+        2.6678
+      ]
+    ],
+    "positive_patch_range_m": 2.664,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 279,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0812,
+        3.1068
+      ],
+      [
+        0.1267,
+        2.7441
+      ]
+    ],
+    "positive_patch_range_m": 2.928,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 280,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.104,
+        3.0495
+      ],
+      [
+        0.0658,
+        3.8688
+      ]
+    ],
+    "positive_patch_range_m": 3.455,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 281,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0829,
+        1.8204
+      ],
+      [
+        -0.1396,
+        2.0898
+      ]
+    ],
+    "positive_patch_range_m": 1.962,
+    "negative_patch_range_m": 3.367
+  },
+  {
+    "scene": 282,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0216,
+        2.3609
+      ]
+    ],
+    "positive_patch_range_m": 2.371,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 283,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1754,
+        1.7101
+      ],
+      [
+        -0.0391,
+        3.9222
+      ]
+    ],
+    "positive_patch_range_m": 2.811,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 284,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0464,
+        2.998
+      ],
+      [
+        0.1063,
+        3.8194
+      ]
+    ],
+    "positive_patch_range_m": 3.396,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 285,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0619,
+        1.03
+      ]
+    ],
+    "positive_patch_range_m": 1.025,
+    "negative_patch_range_m": 2.43
+  },
+  {
+    "scene": 286,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1529,
+        3.8195
+      ]
+    ],
+    "positive_patch_range_m": 3.806,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 287,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1759,
+        2.2392
+      ],
+      [
+        0.0123,
+        1.3354
+      ]
+    ],
+    "positive_patch_range_m": 1.786,
+    "negative_patch_range_m": 3.191
+  },
+  {
+    "scene": 288,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1652,
+        2.2205
+      ],
+      [
+        -0.1936,
+        2.7402
+      ]
+    ],
+    "positive_patch_range_m": 2.489,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 289,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0058,
+        1.6999
+      ]
+    ],
+    "positive_patch_range_m": 1.698,
+    "negative_patch_range_m": 3.103
+  },
+  {
+    "scene": 290,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0787,
+        3.9328
+      ]
+    ],
+    "positive_patch_range_m": 3.923,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 291,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1079,
+        1.7594
+      ],
+      [
+        0.0351,
+        3.2503
+      ]
+    ],
+    "positive_patch_range_m": 2.518,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 292,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1046,
+        2.8299
+      ]
+    ],
+    "positive_patch_range_m": 2.84,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 293,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0117,
+        2.816
+      ],
+      [
+        0.0877,
+        2.0451
+      ]
+    ],
+    "positive_patch_range_m": 2.43,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 294,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0504,
+        3.2453
+      ],
+      [
+        0.0171,
+        1.0362
+      ]
+    ],
+    "positive_patch_range_m": 2.137,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 295,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1819,
+        2.3445
+      ],
+      [
+        0.1364,
+        3.0275
+      ]
+    ],
+    "positive_patch_range_m": 2.693,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 296,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0667,
+        2.7481
+      ],
+      [
+        -0.1806,
+        2.474
+      ]
+    ],
+    "positive_patch_range_m": 2.606,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 297,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0566,
+        3.5867
+      ],
+      [
+        -0.1628,
+        2.3966
+      ]
+    ],
+    "positive_patch_range_m": 2.986,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 298,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1532,
+        2.4141
+      ]
+    ],
+    "positive_patch_range_m": 2.401,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 299,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.172,
+        3.9141
+      ]
+    ],
+    "positive_patch_range_m": 3.923,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 300,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.092,
+        2.0363
+      ],
+      [
+        0.1852,
+        2.8919
+      ]
+    ],
+    "positive_patch_range_m": 2.459,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 301,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1508,
+        2.1346
+      ],
+      [
+        0.0691,
+        1.9579
+      ]
+    ],
+    "positive_patch_range_m": 2.049,
+    "negative_patch_range_m": 3.455
+  },
+  {
+    "scene": 302,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0134,
+        2.8224
+      ],
+      [
+        0.1242,
+        2.7201
+      ]
+    ],
+    "positive_patch_range_m": 2.781,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 303,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1459,
+        3.39
+      ]
+    ],
+    "positive_patch_range_m": 3.396,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 304,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0524,
+        1.486
+      ],
+      [
+        0.1485,
+        3.0654
+      ]
+    ],
+    "positive_patch_range_m": 2.284,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 305,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0951,
+        1.2005
+      ]
+    ],
+    "positive_patch_range_m": 1.2,
+    "negative_patch_range_m": 2.606
+  },
+  {
+    "scene": 306,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0644,
+        3.7643
+      ],
+      [
+        0.1923,
+        1.6338
+      ]
+    ],
+    "positive_patch_range_m": 2.693,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 307,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1439,
+        2.3079
+      ],
+      [
+        0.0571,
+        2.1533
+      ]
+    ],
+    "positive_patch_range_m": 2.225,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 308,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0837,
+        1.0484
+      ],
+      [
+        0.1587,
+        1.4889
+      ]
+    ],
+    "positive_patch_range_m": 1.259,
+    "negative_patch_range_m": 2.664
+  },
+  {
+    "scene": 309,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1479,
+        2.9701
+      ]
+    ],
+    "positive_patch_range_m": 2.957,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 310,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0032,
+        3.2024
+      ]
+    ],
+    "positive_patch_range_m": 3.191,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 311,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0975,
+        3.4283
+      ]
+    ],
+    "positive_patch_range_m": 3.425,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 312,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0898,
+        2.8149
+      ]
+    ],
+    "positive_patch_range_m": 2.811,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 313,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1266,
+        2.5497
+      ]
+    ],
+    "positive_patch_range_m": 2.547,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 314,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1385,
+        2.1887
+      ],
+      [
+        -0.1497,
+        1.3779
+      ]
+    ],
+    "positive_patch_range_m": 1.786,
+    "negative_patch_range_m": 3.191
+  },
+  {
+    "scene": 315,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1877,
+        2.0721
+      ],
+      [
+        0.0425,
+        2.5225
+      ]
+    ],
+    "positive_patch_range_m": 2.284,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 316,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1195,
+        2.1178
+      ],
+      [
+        0.0433,
+        3.1983
+      ]
+    ],
+    "positive_patch_range_m": 2.664,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 317,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1598,
+        1.8829
+      ],
+      [
+        -0.1507,
+        1.492
+      ]
+    ],
+    "positive_patch_range_m": 1.698,
+    "negative_patch_range_m": 3.103
+  },
+  {
+    "scene": 318,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1036,
+        3.1288
+      ],
+      [
+        -0.052,
+        2.8809
+      ]
+    ],
+    "positive_patch_range_m": 3.015,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 319,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1936,
+        1.6323
+      ],
+      [
+        0.1958,
+        3.6482
+      ]
+    ],
+    "positive_patch_range_m": 2.635,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 320,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0737,
+        3.4151
+      ]
+    ],
+    "positive_patch_range_m": 3.425,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 321,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0614,
+        2.3592
+      ]
+    ],
+    "positive_patch_range_m": 2.371,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 322,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0011,
+        1.1125
+      ],
+      [
+        -0.1875,
+        3.6677
+      ]
+    ],
+    "positive_patch_range_m": 2.401,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 323,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0047,
+        1.1778
+      ]
+    ],
+    "positive_patch_range_m": 1.171,
+    "negative_patch_range_m": 2.576
+  },
+  {
+    "scene": 324,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1875,
+        1.1131
+      ]
+    ],
+    "positive_patch_range_m": 1.113,
+    "negative_patch_range_m": 2.518
+  },
+  {
+    "scene": 325,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1212,
+        3.8003
+      ],
+      [
+        0.0725,
+        1.6789
+      ]
+    ],
+    "positive_patch_range_m": 2.752,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 326,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1246,
+        3.6547
+      ]
+    ],
+    "positive_patch_range_m": 3.66,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 327,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1295,
+        1.0143
+      ]
+    ],
+    "positive_patch_range_m": 1.025,
+    "negative_patch_range_m": 2.43
+  },
+  {
+    "scene": 328,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1083,
+        2.642
+      ],
+      [
+        0.0199,
+        3.6733
+      ]
+    ],
+    "positive_patch_range_m": 3.162,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 329,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1087,
+        3.8912
+      ]
+    ],
+    "positive_patch_range_m": 3.894,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 330,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1815,
+        3.1632
+      ]
+    ],
+    "positive_patch_range_m": 3.162,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 331,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0108,
+        3.34
+      ]
+    ],
+    "positive_patch_range_m": 3.338,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 332,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0609,
+        1.5365
+      ],
+      [
+        -0.122,
+        1.321
+      ]
+    ],
+    "positive_patch_range_m": 1.435,
+    "negative_patch_range_m": 2.84
+  },
+  {
+    "scene": 333,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0168,
+        2.2062
+      ],
+      [
+        -0.1455,
+        3.8329
+      ]
+    ],
+    "positive_patch_range_m": 3.015,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 334,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1265,
+        3.8429
+      ]
+    ],
+    "positive_patch_range_m": 3.835,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 335,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1634,
+        1.9036
+      ],
+      [
+        0.1036,
+        1.9625
+      ]
+    ],
+    "positive_patch_range_m": 1.932,
+    "negative_patch_range_m": 3.338
+  },
+  {
+    "scene": 336,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1358,
+        1.5857
+      ],
+      [
+        0.0852,
+        1.0085
+      ]
+    ],
+    "positive_patch_range_m": 1.288,
+    "negative_patch_range_m": 2.693
+  },
+  {
+    "scene": 337,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0623,
+        3.7915
+      ]
+    ],
+    "positive_patch_range_m": 3.806,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 338,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.187,
+        1.0775
+      ]
+    ],
+    "positive_patch_range_m": 1.083,
+    "negative_patch_range_m": 2.489
+  },
+  {
+    "scene": 339,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0282,
+        1.1672
+      ],
+      [
+        -0.0631,
+        2.513
+      ]
+    ],
+    "positive_patch_range_m": 1.844,
+    "negative_patch_range_m": 3.25
+  },
+  {
+    "scene": 340,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1339,
+        3.8733
+      ]
+    ],
+    "positive_patch_range_m": 3.865,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 341,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1751,
+        2.1837
+      ]
+    ],
+    "positive_patch_range_m": 2.196,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 342,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.068,
+        2.8204
+      ],
+      [
+        -0.1536,
+        1.5763
+      ]
+    ],
+    "positive_patch_range_m": 2.196,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 343,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0974,
+        1.9313
+      ]
+    ],
+    "positive_patch_range_m": 1.932,
+    "negative_patch_range_m": 3.338
+  },
+  {
+    "scene": 344,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0903,
+        3.1537
+      ],
+      [
+        0.1114,
+        1.1117
+      ]
+    ],
+    "positive_patch_range_m": 2.137,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 345,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0873,
+        2.4612
+      ]
+    ],
+    "positive_patch_range_m": 2.459,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 346,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.011,
+        2.6219
+      ],
+      [
+        -0.0789,
+        3.9262
+      ]
+    ],
+    "positive_patch_range_m": 3.279,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 347,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1705,
+        1.5104
+      ],
+      [
+        0.0418,
+        1.1125
+      ]
+    ],
+    "positive_patch_range_m": 1.317,
+    "negative_patch_range_m": 2.723
+  },
+  {
+    "scene": 348,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1644,
+        1.9545
+      ]
+    ],
+    "positive_patch_range_m": 1.962,
+    "negative_patch_range_m": 3.367
+  },
+  {
+    "scene": 349,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1007,
+        3.761
+      ],
+      [
+        -0.0515,
+        1.4534
+      ]
+    ],
+    "positive_patch_range_m": 2.606,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 350,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1848,
+        2.4828
+      ]
+    ],
+    "positive_patch_range_m": 2.489,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 351,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0588,
+        3.2532
+      ],
+      [
+        0.1874,
+        1.3404
+      ]
+    ],
+    "positive_patch_range_m": 2.284,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 352,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0486,
+        1.7631
+      ],
+      [
+        0.1108,
+        2.8931
+      ]
+    ],
+    "positive_patch_range_m": 2.342,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 353,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0068,
+        3.7253
+      ]
+    ],
+    "positive_patch_range_m": 3.718,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 354,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.057,
+        3.5141
+      ]
+    ],
+    "positive_patch_range_m": 3.513,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 355,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1002,
+        3.7104
+      ],
+      [
+        -0.1659,
+        1.6207
+      ]
+    ],
+    "positive_patch_range_m": 2.664,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 356,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.045,
+        1.7579
+      ]
+    ],
+    "positive_patch_range_m": 1.757,
+    "negative_patch_range_m": 3.162
+  },
+  {
+    "scene": 357,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1507,
+        3.4931
+      ]
+    ],
+    "positive_patch_range_m": 3.484,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 358,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1074,
+        3.8659
+      ]
+    ],
+    "positive_patch_range_m": 3.865,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 359,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1159,
+        1.3246
+      ]
+    ],
+    "positive_patch_range_m": 1.317,
+    "negative_patch_range_m": 2.723
+  },
+  {
+    "scene": 360,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.133,
+        2.295
+      ],
+      [
+        0.1738,
+        2.7846
+      ]
+    ],
+    "positive_patch_range_m": 2.547,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 361,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0212,
+        1.4096
+      ]
+    ],
+    "positive_patch_range_m": 1.405,
+    "negative_patch_range_m": 2.811
+  },
+  {
+    "scene": 362,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0115,
+        1.9492
+      ],
+      [
+        -0.1134,
+        3.6415
+      ]
+    ],
+    "positive_patch_range_m": 2.781,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 363,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0367,
+        1.9202
+      ]
+    ],
+    "positive_patch_range_m": 1.932,
+    "negative_patch_range_m": 3.338
+  },
+  {
+    "scene": 364,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1377,
+        2.7386
+      ],
+      [
+        0.0728,
+        2.654
+      ]
+    ],
+    "positive_patch_range_m": 2.693,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 365,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0666,
+        3.6346
+      ]
+    ],
+    "positive_patch_range_m": 3.63,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 366,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1163,
+        3.4955
+      ]
+    ],
+    "positive_patch_range_m": 3.484,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 367,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0904,
+        1.8882
+      ]
+    ],
+    "positive_patch_range_m": 1.874,
+    "negative_patch_range_m": 3.279
+  },
+  {
+    "scene": 368,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0046,
+        1.6133
+      ]
+    ],
+    "positive_patch_range_m": 1.61,
+    "negative_patch_range_m": 3.015
+  },
+  {
+    "scene": 369,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0299,
+        2.2299
+      ],
+      [
+        0.0907,
+        2.5211
+      ]
+    ],
+    "positive_patch_range_m": 2.371,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 370,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.1938,
+        2.6641
+      ],
+      [
+        -0.0133,
+        1.0183
+      ]
+    ],
+    "positive_patch_range_m": 1.844,
+    "negative_patch_range_m": 3.25
+  },
+  {
+    "scene": 371,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1133,
+        2.8089
+      ]
+    ],
+    "positive_patch_range_m": 2.811,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 372,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0154,
+        3.9952
+      ],
+      [
+        -0.1258,
+        1.9307
+      ]
+    ],
+    "positive_patch_range_m": 2.957,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 373,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1045,
+        1.0959
+      ]
+    ],
+    "positive_patch_range_m": 1.083,
+    "negative_patch_range_m": 2.489
+  },
+  {
+    "scene": 374,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0499,
+        1.8884
+      ]
+    ],
+    "positive_patch_range_m": 1.903,
+    "negative_patch_range_m": 3.308
+  },
+  {
+    "scene": 375,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0742,
+        2.8411
+      ],
+      [
+        0.0008,
+        3.1851
+      ]
+    ],
+    "positive_patch_range_m": 3.015,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 376,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.133,
+        1.5418
+      ]
+    ],
+    "positive_patch_range_m": 1.552,
+    "negative_patch_range_m": 2.957
+  },
+  {
+    "scene": 377,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0946,
+        3.9512
+      ]
+    ],
+    "positive_patch_range_m": 3.952,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 378,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1185,
+        1.5427
+      ],
+      [
+        -0.1549,
+        1.5509
+      ]
+    ],
+    "positive_patch_range_m": 1.552,
+    "negative_patch_range_m": 2.957
+  },
+  {
+    "scene": 379,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.1061,
+        3.7145
+      ]
+    ],
+    "positive_patch_range_m": 3.718,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 380,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0525,
+        1.3146
+      ],
+      [
+        -0.0799,
+        2.3419
+      ]
+    ],
+    "positive_patch_range_m": 1.815,
+    "negative_patch_range_m": 3.22
+  },
+  {
+    "scene": 381,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1433,
+        2.6367
+      ],
+      [
+        0.1912,
+        2.695
+      ]
+    ],
+    "positive_patch_range_m": 2.664,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 382,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1453,
+        2.8192
+      ]
+    ],
+    "positive_patch_range_m": 2.811,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 383,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0955,
+        3.3302
+      ]
+    ],
+    "positive_patch_range_m": 3.338,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 384,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1552,
+        1.5467
+      ]
+    ],
+    "positive_patch_range_m": 1.552,
+    "negative_patch_range_m": 2.957
+  },
+  {
+    "scene": 385,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1664,
+        2.8652
+      ],
+      [
+        -0.0657,
+        3.1033
+      ]
+    ],
+    "positive_patch_range_m": 2.986,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 386,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0915,
+        2.2879
+      ],
+      [
+        0.1164,
+        1.424
+      ]
+    ],
+    "positive_patch_range_m": 1.844,
+    "negative_patch_range_m": 3.25
+  },
+  {
+    "scene": 387,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.1035,
+        3.8163
+      ],
+      [
+        -0.0618,
+        1.4674
+      ]
+    ],
+    "positive_patch_range_m": 2.635,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 388,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0108,
+        2.504
+      ],
+      [
+        -0.0314,
+        3.909
+      ]
+    ],
+    "positive_patch_range_m": 3.22,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 389,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "metal",
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.0022,
+        2.1728
+      ],
+      [
+        -0.0081,
+        3.2155
+      ]
+    ],
+    "positive_patch_range_m": 2.693,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 390,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.0005,
+        3.3515
+      ]
+    ],
+    "positive_patch_range_m": 3.338,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 391,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "metal"
+    ],
+    "target_xy": [
+      [
+        -0.0711,
+        2.3102
+      ],
+      [
+        0.0095,
+        2.3122
+      ]
+    ],
+    "positive_patch_range_m": 2.313,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 392,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        -0.0143,
+        2.4565
+      ]
+    ],
+    "positive_patch_range_m": 2.459,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 393,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "teflon"
+    ],
+    "target_xy": [
+      [
+        0.1564,
+        1.6698
+      ]
+    ],
+    "positive_patch_range_m": 1.669,
+    "negative_patch_range_m": 3.074
+  },
+  {
+    "scene": 394,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0305,
+        2.0865
+      ]
+    ],
+    "positive_patch_range_m": 2.079,
+    "negative_patch_range_m": 3.484
+  },
+  {
+    "scene": 395,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0879,
+        2.8305
+      ]
+    ],
+    "positive_patch_range_m": 2.84,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 396,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "wood",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.1448,
+        3.3684
+      ],
+      [
+        -0.0269,
+        3.4599
+      ]
+    ],
+    "positive_patch_range_m": 3.425,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 397,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "wood"
+    ],
+    "target_xy": [
+      [
+        -0.0176,
+        2.6288
+      ]
+    ],
+    "positive_patch_range_m": 2.635,
+    "negative_patch_range_m": 0.703
+  },
+  {
+    "scene": 398,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 1,
+    "materials": [
+      "metal"
+    ],
+    "target_xy": [
+      [
+        0.1537,
+        1.632
+      ]
+    ],
+    "positive_patch_range_m": 1.639,
+    "negative_patch_range_m": 3.045
+  },
+  {
+    "scene": 399,
+    "eps_w": 4.5,
+    "d_w": 0.2,
+    "standoff": 0.5,
+    "n_targets": 2,
+    "materials": [
+      "teflon",
+      "wood"
+    ],
+    "target_xy": [
+      [
+        0.0707,
+        1.692
+      ],
+      [
+        -0.0695,
+        2.4754
+      ]
+    ],
+    "positive_patch_range_m": 2.079,
+    "negative_patch_range_m": 3.484
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "patch_shape": [
+    28,
+    48
+  ],
+  "n_scenes_per_physics_set": 400,
+  "patches_per_physics_set": 800,
+  "rng_seeds": {
+    "physics_guided": 10,
+    "physics_unguided": 11,
+    "idealized": 12
+  },
+  "real_wall_estimate": {
+    "eps_w": 5.6,
+    "d_w": 0.23,
+    "standoff": 0.2
+  },
+  "materials": [
+    "metal",
+    "teflon",
+    "wood"
+  ],
+  "label_meaning": {
+    "0": "background / wall clutter",
+    "1": "hidden target present"
+  },
+  "frequency_band_GHz": [
+    1.5,
+    3.5
+  ],
+  "n_frequencies": 201,
+  "sets": {
+    "physics_guided": {
+      "images": [
+        800,
+        28,
+        48
+      ],
+      "balance": [
+        400,
+        400
+      ]
+    },
+    "physics_unguided": {
+      "images": [
+        800,
+        28,
+        48
+      ],
+      "balance": [
+        400,
+        400
+      ]
+    },
+    "idealized": {
+      "images": [
+        800,
+        28,
+        48
+      ],
+      "balance": [
+        399,
+        401
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Build / render artifacts
+*.pdf
+page-*.jpg
+hpage-*.jpg
+
+# Manuscript documents and their generators (kept local, not published)
+*.docx
+build_paper.js
+build_hinglish.js
+equations_refs.js
+
+# Node
+node_modules/
+
+# Large regenerable synthetic arrays (regenerate with generate_synthetic_dataset.py)
+# NOTE: comment the next 2 lines out if you WANT to commit the saved synthetic data.
+# synthetic/**/images.npy
+# synthetic/**/music.npy
+
+# OS
+.DS_Store

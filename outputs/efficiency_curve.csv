@@ -1,0 +1,5 @@
+arm,f1@0%,f1@50%,f1@100%
+Real-only baseline,0.1592,0.1592,0.2444
+Idealized-synthetic,0.1592,0.6686,0.7054
+Physics-synthetic (no adapt),0.4476,0.6224,0.7444
+Proposed (physics+MUSIC-DANN),0.443,0.5814,0.8025
